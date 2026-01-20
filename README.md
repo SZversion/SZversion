@@ -24,6 +24,26 @@
 ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 📫Contact📫
+  - szversion3038@gmail.com
 
-#### Contact📫
-szversion3038@gmail.com
+------------------
+### 🏢 Organization Projects
+#### 🚀 FestSpot
+- 📌 Description: 국내 공연 정보 종합 사이트
+- 🛠 Tech Stack:
+  <div>
+    <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  </div>
+- 👤 Role:
+  - Team Lead
+  - Architecture Design
+  - Frontend Development
+
+  [![FestSpot](https://github-readme-stats.vercel.app/api/pin/?username=team-FestSpot&repo=FestSpot)](https://github.com/team-FestSpot/FestSpot)
+
+
