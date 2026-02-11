@@ -44,7 +44,8 @@
   - Architecture Design
   - Frontend Development
 
- [![FestSpot](https://github-readme-stats.vercel.app/api/pin/?username=team-FestSpot&repo=FestSpot&cache_seconds=86400)](https://github.com/team-FestSpot/FestSpot)
+[![FestSpot](https://github-readme-stats-fast.vercel.app/api/pin/?username=team-FestSpot&repo=FestSpot)](https://github.com/team-FestSpot/FestSpot)
+
 
 
 
