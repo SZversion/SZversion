@@ -9,20 +9,21 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔧Tools🔧
 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📖Studying📖
 
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Static Badge](https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LoRA-6A5ACD?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📫Contact📫
   - szversion3038@gmail.com
@@ -46,6 +47,24 @@
 
 [![FestSpot](https://github-readme-stats-fast.vercel.app/api/pin/?username=team-FestSpot&repo=FestSpot)](https://github.com/team-FestSpot/FestSpot)
 
+#### 🛡️ VoiceGuard
+- 📌 Description: 보이스피싱 통화 분석 및 피해 예방 서비스
+- 🛠 Tech Stack:
+  <div>
+    <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/LoRA-6A5ACD?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whisper-%234B32C3?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Railway-%230B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </div>
+- 👤 Role:
+  - Team Lead & Project Integration
+  - Pipeline Integration and Team Support
+
+[![VoiceGuard](https://github-readme-stats-fast.vercel.app/api/pin/?username=SZversion&repo=VoiceGuard)](https://github.com/SZversion/VoiceGuard)
 
 
 
