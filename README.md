@@ -66,5 +66,13 @@
 
 [![VoiceGuard](https://github-readme-stats-fast.vercel.app/api/pin/?username=SZversion&repo=VoiceGuard)](https://github.com/SZversion/VoiceGuard)
 
+---
 
+### 🧑‍💻 Personal Projects
+#### 🎮 PathOfBuilding_agent · 🚧 개발 중
+- 📌 Description: Path of Exile 빌드 플래너인 Path of Building에 외부 에이전트를 연결하여 빌드 계산값과 근거를 설명하는 확장 프로젝트
+- 🚧 Status: 개발 중 — 현재 PoB 상태 조회와 계산 근거 연결을 구현하고 있으며, 실시간 빌드 수정 기능을 확장할 예정
+- 🛠 Tech Stack: Lua · Python
+- 👤 Role: 개인 프로젝트 설계 및 개발
 
+[![PathOfBuilding_agent](https://github-readme-stats-fast.vercel.app/api/pin/?username=SZversion&repo=PathOfBuilding_agent)](https://github.com/SZversion/PathOfBuilding_agent)
