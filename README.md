@@ -24,6 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LoRA-6A5ACD?style=for-the-badge&logo=pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white)
 
 ### 📫Contact📫
   - szversion3038@gmail.com
