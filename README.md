@@ -44,7 +44,7 @@
 - 👤 Role:
   - Team Lead
   - Architecture Design
-  - Frontend Development
+  - User Page Development
 
 [![FestSpot](https://github-readme-stats-fast.vercel.app/api/pin/?username=team-FestSpot&repo=FestSpot)](https://github.com/team-FestSpot/FestSpot)
 
@@ -66,6 +66,30 @@
   - Pipeline Integration and Team Support
 
 [![VoiceGuard](https://github-readme-stats-fast.vercel.app/api/pin/?username=SZversion&repo=VoiceGuard)](https://github.com/SZversion/VoiceGuard)
+
+#### 🎨 UH케그려
+- 📌 Description: 일상어로 묘사한 캐릭터의 체형·포즈·구도를 드로잉 용어와 Pinterest 레퍼런스로 연결하는 AI Agent
+- 🛠 Tech Stack:
+  <div>
+    <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neon-%2300E599?style=for-the-badge&logo=neon&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP-%23000000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenRouter-%236467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+    <img src="https://img.shields.io/badge/SearXNG-%233050FF?style=for-the-badge&logo=searxng&logoColor=white" />
+    <img src="https://img.shields.io/badge/Langfuse-%23000000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud%20Run-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </div>
+- 👤 Role:
+  - MCP Development
+  - Architecture Design
+  - System Integration
+
+[![UH케그려](https://github-readme-stats-fast.vercel.app/api/pin/?username=SZversion&repo=Uhkegyro)](https://github.com/SZversion/Uhkegyro)
 
 ---
 
